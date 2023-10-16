@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1692564605 source:c:\users\rocio\onedrive\escritorio\tp-punteros\main.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	"strings.h"
+	"time.h"
+
+1692633708 source:c:\users\rocio\onedrive\escritorio\guía de punteros con teoría y apuntes\main.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	"strings.h"
+	"time.h"
+
